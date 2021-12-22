@@ -1,2 +1,5 @@
 # SEMIDEFINITE-PROGRAMMING-BOUNDS-FOR-SPHERICAL-THREE-DISTANCE-SETS-Appendix
-The appendix for the paper: "SEMIDEFINITE-PROGRAMMING-BOUNDS-FOR-SPHERICAL-THREE-DISTANCE-SETS"
+
+We provide the following data as appendix
+* SOS_N23.csv
+* Sampling_N23.csv
